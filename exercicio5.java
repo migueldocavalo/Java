@@ -8,7 +8,7 @@ public class IdadeParaDias {
         int idade = sc.nextInt();
 
         int diasVividos = idade * 365;
-        System.out.println("Você viveu aproximadamente " + diasVividos + " dias.");
+        System.out.println("Você viveu aproximadamente " + diasVividos);
 
         sc.close();
     }
